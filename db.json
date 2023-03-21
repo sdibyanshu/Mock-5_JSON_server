@@ -54,5 +54,12 @@
       "place": "Banglore",
       "gender": "Female"
     }
-  ]
+  ],
+  "todo":[
+    {
+        "id":1,
+        "name":"Eat"
+
+    }
+]
 }
